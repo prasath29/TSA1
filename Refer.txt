@@ -1,0 +1,31 @@
+Excercise -1
+    Time series data cleaning loading and handling time series data and preprocessing techniques.
+
+Excercise -2
+    Visualization of time series data.
+
+Excercise -3
+    Programs to check stationary of a time series data.
+
+Excercise -4
+    Estimating & eliminating trend in time series data- aggregation,smoothing.
+
+Excercise -5
+    Develop a linear regression model for forecasting time series data.
+
+Excercise -6
+    Applying moving average smoothing for data preparation and time series forecasting.
+
+Excercise -7
+    Decomposing time series data into trend and seasonality. 
+
+Excercise -8
+    ARIMA model for time series forecasting.
+
+Excercise -9
+    Neural network-based time series forecasting model.
+
+Excercise -10
+    Vector auto regression model for multivariate time series data forecasting.
+
+
